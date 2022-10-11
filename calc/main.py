@@ -4,7 +4,7 @@ x = 0
 y = 0
 lst = []
 
-bot = telebot.TeleBot('5753604058:AAHLeZ1vZfdB6kJDd7TW64DwrLJybb9fpHo')
+bot = telebot.TeleBot('your token')
 
 keyboard1 = telebot.types.ReplyKeyboardMarkup(True)
 keyboard1.row('1', '2', '3', ' ', '4', '5', '6',' ', '7', '8', '9', '.', '+', '-', '*', '/', '=')
